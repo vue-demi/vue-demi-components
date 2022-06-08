@@ -24,6 +24,7 @@
     "webpack-node-externals": "1.7.2"
   },
   "devDependencies": {
+    "@types/webpack-env": "^1.17.0",
     "@vue/cli-plugin-babel": "~4.5.13",
     "@vue/cli-plugin-typescript": "~4.5.13",
     "@vue/cli-service": "~4.5.13",

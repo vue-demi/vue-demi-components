@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@types/webpack-env': ^1.17.0
   '@vue/cli-plugin-babel': ~4.5.13
   '@vue/cli-plugin-typescript': ~4.5.13
   '@vue/cli-service': ~4.5.13
@@ -30,6 +31,7 @@ dependencies:
   webpack-node-externals: registry.npmmirror.com/webpack-node-externals/1.7.2
 
 devDependencies:
+  '@types/webpack-env': registry.npmmirror.com/@types/webpack-env/1.17.0
   '@vue/cli-plugin-babel': registry.npmmirror.com/@vue/cli-plugin-babel/4.5.17_gxyld4ypttkyztgvtwxpwnxt3i
   '@vue/cli-plugin-typescript': registry.npmmirror.com/@vue/cli-plugin-typescript/4.5.17_2icwncub7xczqyahnfbhpdojv4
   '@vue/cli-service': registry.npmmirror.com/@vue/cli-service/4.5.17_fcanqbww24kzavkoieiuszbb2e
