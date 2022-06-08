@@ -1,5 +1,3 @@
-# tab-bar
-
 ## Project setup
 
 ```
